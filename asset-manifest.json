@@ -1,11 +1,11 @@
 {
-  "main.js": "/React-Web-App/static/js/main.d4fa71bd.chunk.js",
-  "main.js.map": "/React-Web-App/static/js/main.d4fa71bd.chunk.js.map",
-  "runtime~main.js": "/React-Web-App/static/js/runtime~main.11f452ed.js",
-  "runtime~main.js.map": "/React-Web-App/static/js/runtime~main.11f452ed.js.map",
-  "static/js/2.ee454a4a.chunk.js": "/React-Web-App/static/js/2.ee454a4a.chunk.js",
-  "static/js/2.ee454a4a.chunk.js.map": "/React-Web-App/static/js/2.ee454a4a.chunk.js.map",
-  "index.html": "/React-Web-App/index.html",
-  "precache-manifest.56295333060dfa47bb9a6a0072bdb987.js": "/React-Web-App/precache-manifest.56295333060dfa47bb9a6a0072bdb987.js",
-  "service-worker.js": "/React-Web-App/service-worker.js"
+  "main.js": "/React-Web-App/my-portafolio-app/static/js/main.7ffe6d2d.chunk.js",
+  "main.js.map": "/React-Web-App/my-portafolio-app/static/js/main.7ffe6d2d.chunk.js.map",
+  "runtime~main.js": "/React-Web-App/my-portafolio-app/static/js/runtime~main.b1353190.js",
+  "runtime~main.js.map": "/React-Web-App/my-portafolio-app/static/js/runtime~main.b1353190.js.map",
+  "static/js/2.ee454a4a.chunk.js": "/React-Web-App/my-portafolio-app/static/js/2.ee454a4a.chunk.js",
+  "static/js/2.ee454a4a.chunk.js.map": "/React-Web-App/my-portafolio-app/static/js/2.ee454a4a.chunk.js.map",
+  "index.html": "/React-Web-App/my-portafolio-app/index.html",
+  "precache-manifest.cba97f63d1cc03d778f7df76385db9ba.js": "/React-Web-App/my-portafolio-app/precache-manifest.cba97f63d1cc03d778f7df76385db9ba.js",
+  "service-worker.js": "/React-Web-App/my-portafolio-app/service-worker.js"
 }
