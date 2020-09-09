@@ -1,11 +1,11 @@
 {
-  "main.js": "/ro199/React-Web-App/static/js/main.78c5a66d.chunk.js",
-  "main.js.map": "/ro199/React-Web-App/static/js/main.78c5a66d.chunk.js.map",
-  "runtime~main.js": "/ro199/React-Web-App/static/js/runtime~main.5103cf6c.js",
-  "runtime~main.js.map": "/ro199/React-Web-App/static/js/runtime~main.5103cf6c.js.map",
-  "static/js/2.3bca9ab3.chunk.js": "/ro199/React-Web-App/static/js/2.3bca9ab3.chunk.js",
-  "static/js/2.3bca9ab3.chunk.js.map": "/ro199/React-Web-App/static/js/2.3bca9ab3.chunk.js.map",
-  "index.html": "/ro199/React-Web-App/index.html",
-  "precache-manifest.51a7e1c4864bcf121d4279499631156a.js": "/ro199/React-Web-App/precache-manifest.51a7e1c4864bcf121d4279499631156a.js",
-  "service-worker.js": "/ro199/React-Web-App/service-worker.js"
+  "main.js": "/React-Web-App/static/js/main.3668e5f3.chunk.js",
+  "main.js.map": "/React-Web-App/static/js/main.3668e5f3.chunk.js.map",
+  "runtime~main.js": "/React-Web-App/static/js/runtime~main.11f452ed.js",
+  "runtime~main.js.map": "/React-Web-App/static/js/runtime~main.11f452ed.js.map",
+  "static/js/2.3bca9ab3.chunk.js": "/React-Web-App/static/js/2.3bca9ab3.chunk.js",
+  "static/js/2.3bca9ab3.chunk.js.map": "/React-Web-App/static/js/2.3bca9ab3.chunk.js.map",
+  "index.html": "/React-Web-App/index.html",
+  "precache-manifest.d25ff3c2e7dfa74f4287dc5b3a832a17.js": "/React-Web-App/precache-manifest.d25ff3c2e7dfa74f4287dc5b3a832a17.js",
+  "service-worker.js": "/React-Web-App/service-worker.js"
 }
