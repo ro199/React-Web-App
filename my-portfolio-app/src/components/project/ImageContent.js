@@ -1,10 +1,10 @@
-import frontendSVG from "../../../static/frontend/svg/programacion.svg";
-import backendSVG from "../../../static/frontend/svg/backend.svg";
-import mobileSVG from "../../../static/frontend/svg/mobile-app.svg";
-
 const frontend = ["javascript", "html", "css", "typescript"];
 const backend = ["python", "go", "nodejs", "php", ".net"];
 const mobile = ["android", "ios", "kotlin", "java", "objective-c"];
+
+const frontendSVG = process.env.PUBLIC_URL + "/svg/programacion.svg";
+const backendSVG = process.env.PUBLIC_URL + "/svg/backend.svg";
+const mobileSVG = process.env.PUBLIC_URL + "/svg/mobile-app.svg";
 
 export const projectTypeImage = (language) => {
   let imageType = "";

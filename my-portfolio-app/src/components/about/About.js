@@ -37,7 +37,7 @@ const About = () => {
           <div className="row">
             <div className="col-md-12">
               <div
-                className="row row-bottom-padded-sm animate-box"
+                className="row row-bottom-padded-sm"
                 data-animate-effect="fadeInLeft"
               >
                 <div className="col-md-12">
@@ -57,28 +57,29 @@ const About = () => {
                   </div>
                 </div>
               </div>
-              <div className="row">
+              <div className="row row-pt-md ">
                 {programmingLanguage.map((programing) => (
                   <div
-                    className="col-md-6 animate-box"
+                    className="col-md-6 text-justify"
                     data-animate-effect="fadeInLeft"
                     key={programing.id}
                   >
-                    <div className="services color-1">
-                      <span className="icon2">
+                    <div className="services color-2">
+                      <span className="icon">
                         <i className="icon-bulb"></i>
                       </span>
-                      <h3>{programing.programming_language_name}</h3>
-                      <p>{programing.description}</p>
+                      <div className="desc">
+                        <h3 style={{ color: "black" }}>
+                          {programing.programming_language_name}
+                        </h3>
+                        <p>{programing.description}</p>
+                      </div>
                     </div>
                   </div>
                 ))}
               </div>
               <div className="row">
-                <div
-                  className="col-md-12 animate-box"
-                  data-animate-effect="fadeInLeft"
-                >
+                <div className="col-md-12" data-animate-effect="fadeInLeft">
                   <div className="hire">
                     <h2>
                       ¿Quieres saber cómo puedo ayudarte en tu proyecto? Dale un
@@ -93,7 +94,7 @@ const About = () => {
               </div>
               <hr />
               <div className="row">
-                <div className="col-md-12 animate-box">
+                <div className="col-md-12 ">
                   <div>
                     <button className="btn btn-primary">
                       <Link to="/project" style={{ color: "white" }}>

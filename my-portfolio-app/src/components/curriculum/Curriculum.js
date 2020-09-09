@@ -86,13 +86,13 @@ const Curriculum = () => {
           <div className="row">
             <div className="col-md-12">
               <div
-                className="row row-bottom-padded-sm animate-box"
+                className="row row-bottom-padded-sm"
                 data-animate-effect="fadeInLeft"
               >
                 <div className="col-md-12">
                   <div className="about-desc">
                     <h2 className="colorlib-heading">Currículum Online</h2>
-                    <h2 className="colorlib-hero"></h2>
+
                     <div className="col text-center">
                       <a
                         className="btn btn-primary"

@@ -25,7 +25,7 @@ const Project = () => {
           <div className="row">
             <div className="col-md-12">
               <div
-                className="row row-bottom-padded-sm animate-box"
+                className="row row-bottom-padded-sm "
                 data-animated-effect="fadeInLeft"
               >
                 <div className="col-md-12">
@@ -44,12 +44,16 @@ const Project = () => {
                     className={projectTypeClass(repo.language)}
                     key={repo.id}
                   >
-                    <div className="card project-card">
+                    <div
+                      className="card project-card"
+                      style={{ backgroundColor: "#f2f3f7" }}
+                    >
                       <div className="row no-glutters">
                         <div className="col-lg-4 card-img-holder">
                           <img
                             src={projectTypeImage(repo.language)}
-                            className="card-img"
+                            //className="card-img"
+                            style={{ height: "100%" }}
                             alt="image"
                           />
                         </div>

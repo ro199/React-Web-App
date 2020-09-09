@@ -26,7 +26,7 @@ const Certificate = () => {
           <div className="row">
             <div className="col-md-12">
               <div
-                className="row row-bottom-padded-sm animate-box"
+                className="row row-bottom-padded-sm "
                 data-animate-effect="fadeInLeft"
               >
                 <div className="col-md-12">
@@ -44,7 +44,7 @@ const Certificate = () => {
                       <div key={cer.id}>
                         <h4 className="colorlib-hero">{cer.course_name}</h4>
                         <div></div>
-                        <img className="img-fluid" src={cer.img}></img>
+                        <img className="img-fluid" src={cer.img} />
                         <hr />
                       </div>
                     ))}
