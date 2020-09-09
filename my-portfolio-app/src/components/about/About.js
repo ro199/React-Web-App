@@ -65,9 +65,7 @@ const About = () => {
                     key={programing.id}
                   >
                     <div className="services color-2">
-                      <span className="icon">
-                        <i className="icon-bulb"></i>
-                      </span>
+                      <span className="icon"></span>
                       <div className="desc">
                         <h3 style={{ color: "black" }}>
                           {programing.programming_language_name}

@@ -96,7 +96,7 @@ const Curriculum = () => {
                     <div className="col text-center">
                       <a
                         className="btn btn-primary"
-                        href="http://127.0.0.1:8000/media/documents/Curriculum-Vitae-Alvarado_Ronald.pdf"
+                        href="images/Curriculum-Vitae-Alvarado_Ronald.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         style={{ color: "white" }}
