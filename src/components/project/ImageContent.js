@@ -2,9 +2,9 @@ const frontend = ["javascript", "html", "css", "typescript"];
 const backend = ["python", "go", "nodejs", "php", ".net"];
 const mobile = ["android", "ios", "kotlin", "java", "objective-c"];
 
-const frontendSVG = "build/svg/programacion.svg";
-const backendSVG = "build/svg/backend.svg";
-const mobileSVG = "build/svg/mobile-app.svg";
+const frontendSVG = "svg/programacion.svg";
+const backendSVG = "svg/backend.svg";
+const mobileSVG = "svg/mobile-app.svg";
 
 export const projectTypeImage = (language) => {
   let imageType = "";
