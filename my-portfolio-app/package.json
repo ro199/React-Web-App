@@ -6,6 +6,9 @@
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
+    "react-icons": "^3.11.0",
+    "react-notification-system": "^0.4.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "2.1.5",
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
@@ -26,5 +29,17 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ro199/React-Web-App.git"
+  },
+  "author": "ro199",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ro199/React-Web-App/issues"
+  },
+  "homepage": "https://github.com/ro199/React-Web-App#readme",
+  "description": ""
 }
