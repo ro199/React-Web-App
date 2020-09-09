@@ -1,6 +1,8 @@
 {
   "name": "my-portfolio-app",
   "version": "0.1.0",
+  "homepage": ".",
+  "description": "",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
@@ -39,7 +41,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ro199/React-Web-App/issues"
-  },
-  "homepage": "https://github.com/ro199/React-Web-App#readme",
-  "description": ""
+  }
 }
